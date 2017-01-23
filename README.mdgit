@@ -1,0 +1,1 @@
+"# Aula0501"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/carlospedrosopoa/Aula0501.gitgit push -u origin master
